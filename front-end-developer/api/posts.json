@@ -1,0 +1,34 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "title": "The post title for first article",
+      "tags": ["html", "web"],
+      "postedAt": "2020-01-01 12:00:00"
+    },
+    {
+      "id": 2,
+      "title": "The post title for second article",
+      "tags": ["css", "html", "web"],
+      "postedAt": "2020-01-05 12:00:00"
+    },
+    {
+      "id": 3,
+      "title": "The post title for third article",
+      "tags": ["web", "js"],
+      "postedAt": "2020-01-10 12:00:00"
+    },
+    {
+      "id": 4,
+      "title": "The post title for fourth article",
+      "tags": ["web", "js", "vue"],
+      "postedAt": "2020-01-15 12:00:00"
+    },
+    {
+      "id": 5,
+      "title": "The post title for fifth article",
+      "tags": ["web", "css"],
+      "postedAt": "2020-01-20 12:00:00"
+    }
+  ]
+}

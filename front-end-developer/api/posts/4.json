@@ -1,0 +1,9 @@
+{
+  "data": {
+    "id": 4,
+    "title": "The post title for fourth article",
+    "tags": ["web", "js", "vue"],
+    "body": "Ut etiam sit amet nisl purus in mollis nunc sed. Sit amet cursus sit amet dictum sit amet justo. Amet mattis vulputate enim nulla aliquet porttitor lacus. Egestas dui id ornare arcu odio ut sem nulla. Nibh cras pulvinar mattis nunc sed blandit libero. Tempus imperdiet nulla malesuada pellentesque. Cursus vitae congue mauris rhoncus aenean vel elit scelerisque. Nisl suscipit adipiscing bibendum est ultricies integer quis. Bibendum arcu vitae elementum curabitur. Rhoncus urna neque viverra justo nec ultrices dui. Dictum varius duis at consectetur lorem. Sed sed risus pretium quam. Viverra maecenas accumsan lacus vel facilisis volutpat est. Velit ut tortor pretium viverra suspendisse potenti. Iaculis eu non diam phasellus vestibulum lorem. Pellentesque habitant morbi tristique senectus et netus et malesuada. Elit pellentesque habitant morbi tristique senectus et. Volutpat consequat mauris nunc congue nisi vitae.",
+    "postedAt": "2020-01-15 12:00:00"
+  }
+}

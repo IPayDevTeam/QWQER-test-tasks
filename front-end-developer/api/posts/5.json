@@ -1,0 +1,9 @@
+{
+  "data": {
+    "id": 5,
+    "title": "The post title for fifth article",
+    "tags": ["web", "css"],
+    "body": "Vitae sapien pellentesque habitant morbi tristique. Sit amet tellus cras adipiscing. Nulla aliquet porttitor lacus luctus. Volutpat odio facilisis mauris sit. Nunc id cursus metus aliquam eleifend mi in. Ultrices neque ornare aenean euismod elementum nisi. Porttitor rhoncus dolor purus non enim praesent elementum. Ultrices in iaculis nunc sed augue lacus viverra vitae congue. Malesuada pellentesque elit eget gravida cum sociis. Ornare arcu odio ut sem.",
+    "postedAt": "2020-01-20 12:00:00"
+  }
+}

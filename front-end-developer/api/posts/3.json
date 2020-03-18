@@ -1,0 +1,9 @@
+{
+  "data": {
+    "id": 3,
+    "title": "The post title for third article",
+    "tags": ["web", "js"],
+    "body": "Habitant morbi tristique senectus et. Aliquet enim tortor at auctor urna nunc id cursus. Iaculis nunc sed augue lacus viverra. Non quam lacus suspendisse faucibus interdum posuere lorem ipsum. Donec adipiscing tristique risus nec feugiat in fermentum. Porta nibh venenatis cras sed felis eget. Imperdiet sed euismod nisi porta. Elementum eu facilisis sed odio morbi quis commodo. Nibh venenatis cras sed felis eget. Pellentesque dignissim enim sit amet venenatis. Velit aliquet sagittis id consectetur. Mauris in aliquam sem fringilla ut morbi tincidunt. Varius sit amet mattis vulputate enim nulla.",
+    "postedAt": "2020-01-10 12:00:00"
+  }
+}

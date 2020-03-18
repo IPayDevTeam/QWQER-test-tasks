@@ -1,0 +1,9 @@
+{
+  "data": {
+    "id": 1,
+    "title": "The post title for first article",
+    "tags": ["html", "web"],
+    "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Pulvinar mattis nunc sed blandit libero. Lorem ipsum dolor sit amet consectetur adipiscing elit pellentesque habitant. Elit ullamcorper dignissim cras tincidunt. Lacus sed turpis tincidunt id aliquet risus. Tellus elementum sagittis vitae et. Facilisis leo vel fringilla est ullamcorper eget. Volutpat est velit egestas dui id ornare arcu odio. Purus non enim praesent elementum facilisis leo vel fringilla. Enim ut tellus elementum sagittis vitae et. Magnis dis parturient montes nascetur ridiculus mus mauris vitae ultricies.",
+    "postedAt": "2020-01-01 12:00:00"
+  }
+}

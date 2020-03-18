@@ -1,0 +1,9 @@
+{
+  "data": {
+    "id": 2,
+    "title": "The post title for second article",
+    "tags": ["css", "html", "web"],
+    "body": "Ac feugiat sed lectus vestibulum mattis. Ut faucibus pulvinar elementum integer enim neque volutpat ac tincidunt. Amet volutpat consequat mauris nunc congue nisi vitae suscipit. Odio ut enim blandit volutpat maecenas volutpat. Sed lectus vestibulum mattis ullamcorper velit. Dolor purus non enim praesent. Vitae auctor eu augue ut lectus arcu bibendum at. A erat nam at lectus urna duis convallis. Imperdiet massa tincidunt nunc pulvinar sapien et. Adipiscing commodo elit at imperdiet dui accumsan sit. A iaculis at erat pellentesque adipiscing. Ac placerat vestibulum lectus mauris ultrices eros in. Adipiscing bibendum est ultricies integer quis auctor elit sed vulputate. Pretium viverra suspendisse potenti nullam ac tortor vitae. Lectus quam id leo in. Eu nisl nunc mi ipsum faucibus vitae. Lorem mollis aliquam ut porttitor leo a diam sollicitudin tempor.",
+    "postedAt": "2020-01-05 12:00:00"
+  }
+}
